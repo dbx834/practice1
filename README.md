@@ -1,2 +1,3 @@
 # practice1
-Clone of shift.education
+
+Clone of https://www.shift.education/
