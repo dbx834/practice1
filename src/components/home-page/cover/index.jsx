@@ -271,7 +271,9 @@ const HeroBox = props => {
                   designation="Apprentice, Design, Media, Outreach"
                 >
                   <p>
-                    <span>Bio coming soon.</span>
+                    <span>
+                   Bio coming soon
+                    </span>
                   </p>
                 </Person>
                 <Person
