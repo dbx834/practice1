@@ -271,7 +271,12 @@ const HeroBox = props => {
                   designation="Apprentice, Design, Media, Outreach"
                 >
                   <p>
-                    <span>Bio coming soon.</span>
+                    <span>
+                    Studied at I.K. Gujral University. 
+                    A computer Science Engineer,
+                    working as Digital Outreach counsellor at Cambridge International School
+                    and learning the nuances of web development.
+                    </span>
                   </p>
                 </Person>
                 <Person
